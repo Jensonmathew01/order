@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.project.order.Service.x.java&apos; to &apos;OrderServiceImpl.java&apos;&#x0D;&#x0A;- Original project: &apos;Order&apos;&#x0D;&#x0A;- Original element: &apos;com.project.order.Service.x.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.project.order.Service.OrderServiceImpl.java&apos;" description="Rename compilation unit &apos;x.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.project.order.Service{x.java" name="OrderServiceImpl.java" references="false" stamp="1686658598102" version="1.0"/>
+</session>
